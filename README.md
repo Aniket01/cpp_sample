@@ -1,7 +1,7 @@
 # cpp_sample
 <h1>Sample work with C++</h1> <br>
 <h2>Problem Description</h2>
-<h3>[349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)</h3><br>
+<h3>[349. Intersection of Two Arrays]</h3>(https://leetcode.com/problems/intersection-of-two-arrays/description/)<br>
 Given two integer arrays nums1 and nums2, return an array of their intersection.<br>
 Each element in the result must be unique and you may return the result in any order.<br>
 Example 1:<br>
