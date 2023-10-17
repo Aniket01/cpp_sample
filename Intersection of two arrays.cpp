@@ -1,4 +1,6 @@
 // solution to leetcode problem no.349
+// problem description in README.md
+
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
